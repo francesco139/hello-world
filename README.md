@@ -1,3 +1,4 @@
 # hello-world
 Tutorial
-I am a COGS student
+I'm a cogs student
+I did it wrong, lets do it right
